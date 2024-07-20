@@ -1,6 +1,6 @@
 # Dynamic JSON Generator Demo App
 
-This demo app showcases the `dynamic-json-generator` npm package. The app generates dynamic, fake JSON data for blog posts using React and TypeScript, displaying them in a responsive and appealing UI with Material-UI.
+This demo app showcases the `dynamic-json-generator` npm package. The app generates dynamic, fake JSON data for blog posts using React and TypeScript, displaying them in a responsive and appealing UI with Tailwind CSS.
 
 ## Installation
 
